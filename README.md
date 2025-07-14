@@ -12,4 +12,10 @@ php artisan db:seed
 ---------------------------
 npm install
 npm run dev
+
+</p>
+
+<p>
+PROJECT PREVIEW
+In this section, you’ll find screenshots showcasing the application interface and the email notification.
 </p>
