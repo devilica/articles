@@ -12,8 +12,8 @@ class ArticleList extends Component
     {
         $locale = app()->getLocale();
 
-        $articles = //Cache::remember('articles_list_' . $locale, 600, function () use ($locale) {
-           // return
+        $articles = Cache::remember('articles_list_' . $locale, 600, function () use ($locale) {
+            return
              Article::orderBy('id', 'desc')->get()->map(function ($article) use ($locale) {
                 return [
                     'id' => $article->id,
@@ -23,7 +23,7 @@ class ArticleList extends Component
                     'created_at' => $article->created_at->format('d.m.Y H:i:s'),
                 ];
             });
-       // });
+        });
 
         return view('livewire.article-list', compact('articles'));
     }
