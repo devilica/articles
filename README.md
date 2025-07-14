@@ -2,7 +2,7 @@
 git clone https://github.com/devilica/articles.git<br>
 cd articles<br>
 cp .env.example .env<br>
-Adjust .env (database, mail)
+Adjust .env (database, mail)<br>
 docker-compose up -d<br>
 ---------------------------<br>
 IN root project execute: docker exec -it test_articles-laravel.test-1 /bin/bash<br>
