@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "en": "The Art of Slow Travel",
+            "de": "Die Kunst des langsamen Reisens"
+        },
+        "text": {
+            "en": "Slow travel invites you to notice the small details that rushing tourists miss. A morning espresso at the same cafe, a walk through a neighborhood market, and conversations with locals transform a trip into a story worth telling.\n\nInstead of checking landmarks off a list, you follow curiosity. You learn how bread is baked, how streets got their names, and why a city feels alive at dusk.\n\nThe reward is not more photos, but deeper memory. You return home changed by places you actually understood.",
+            "de": "Langsames Reisen lädt dazu ein, die kleinen Details wahrzunehmen, die hetzende Touristen übersehen. Ein Morgenespresso im gleichen Café, ein Spaziergang über den Wochenmarkt und Gespräche mit Einheimischen machen aus einer Reise eine Geschichte, die man erzählen möchte.\n\nStatt Sehenswürdigkeiten abzuhaken, folgt man der Neugier. Man lernt, wie Brot gebacken wird, wie Straßen ihre Namen bekamen und warum eine Stadt in der Dämmerung lebendig wirkt.\n\nDie Belohnung sind nicht mehr Fotos, sondern tiefere Erinnerungen. Man kehrt verändert zurück, weil man Orte wirklich verstanden hat."
+        },
+        "image": "https://picsum.photos/seed/article1/400/600",
+        "view_count": 842,
+        "created_at": "2025-07-01 09:15:00"
+    },
+    {
+        "id": 2,
+        "title": {
+            "en": "Building Habits That Stick",
+            "de": "Gewohnheiten aufbauen, die bleiben"
+        },
+        "text": {
+            "en": "Lasting habits rarely begin with dramatic resolutions. They start with actions so small they feel almost silly: one page, one push-up, one minute of focus.\n\nConsistency matters more than intensity. When a behavior is easy to repeat, your brain stops treating it as a threat and starts treating it as identity.\n\nTrack progress, celebrate tiny wins, and design your environment so the right choice is also the easiest choice.",
+            "de": "Bestehende Gewohnheiten beginnen selten mit dramatischen Vorsätzen. Sie starten mit Handlungen, die so klein wirken, dass sie fast lächerlich erscheinen: eine Seite, ein Liegestütz, eine Minute Fokus.\n\nBeständigkeit zählt mehr als Intensität. Wenn ein Verhalten leicht zu wiederholen ist, behandelt das Gehirn es nicht mehr als Bedrohung, sondern als Identität.\n\nVerfolge Fortschritte, feiere kleine Erfolge und gestalte deine Umgebung so, dass die richtige Wahl auch die einfachste ist."
+        },
+        "image": "https://picsum.photos/seed/article2/400/600",
+        "view_count": 613,
+        "created_at": "2025-07-02 11:30:00"
+    },
+    {
+        "id": 3,
+        "title": {
+            "en": "Why Cities Need More Trees",
+            "de": "Warum Städte mehr Bäume brauchen"
+        },
+        "text": {
+            "en": "Urban trees cool streets, filter air, and soften the hard edges of concrete skylines. They turn noisy avenues into places where people pause, talk, and breathe.\n\nBeyond aesthetics, trees reduce energy costs and protect biodiversity in places where wildlife has been pushed to the margins.\n\nInvesting in green corridors is not decoration. It is infrastructure for healthier, quieter, and more resilient communities.",
+            "de": "Städtische Bäume kühlen Straßen, filtern Luft und mildern die harten Konturen betonierter Skyline. Sie verwandeln laute Alleen in Orte, an denen Menschen innehalten, sprechen und durchatmen.\n\nJenseits der Ästhetik senken Bäume Energiekosten und schützen Artenvielfalt dort, wo Wildtiere an den Rand gedrängt wurden.\n\nInvestitionen in grüne Korridore sind keine Dekoration. Sie sind Infrastruktur für gesündere, ruhigere und widerstandsfähigere Gemeinschaften."
+        },
+        "image": "https://picsum.photos/seed/article3/400/600",
+        "view_count": 1290,
+        "created_at": "2025-07-03 08:45:00"
+    },
+    {
+        "id": 4,
+        "title": {
+            "en": "A Beginner Guide to Home Cooking",
+            "de": "Ein Einsteigerleitfaden fürs Kochen zu Hause"
+        },
+        "text": {
+            "en": "Great home cooking begins with a sharp knife, a reliable pan, and three recipes you can cook without thinking. Master those and confidence follows naturally.\n\nShop with a plan, taste as you go, and learn one sauce you can adapt to pasta, grains, and vegetables.\n\nCooking at home is not about perfection. It is about feeding yourself and the people you care about with intention.",
+            "de": "Gutes Kochen zu Hause beginnt mit einem scharfen Messer, einer zuverlässigen Pfanne und drei Rezepten, die man ohne Nachdenken zubereiten kann. Beherrscht man diese, folgt das Selbstvertrauen von selbst.\n\nEinkaufen mit Plan, während des Kochens probieren und eine Sauce lernen, die sich für Pasta, Getreide und Gemüse anpassen lässt.\n\nKochen zu Hause geht nicht um Perfektion. Es geht darum, sich selbst und anderen bewusst etwas Gutes zu machen."
+        },
+        "image": "https://picsum.photos/seed/article4/400/600",
+        "view_count": 455,
+        "created_at": "2025-07-04 18:20:00"
+    },
+    {
+        "id": 5,
+        "title": {
+            "en": "The Future of Remote Work",
+            "de": "Die Zukunft der Remote-Arbeit"
+        },
+        "text": {
+            "en": "Remote work reshaped where we live, how teams communicate, and what productivity really means. Flexibility became a baseline expectation, not a perk.\n\nSuccessful distributed teams invest in clear writing, async updates, and intentional moments of connection. They measure outcomes, not hours at a desk.\n\nThe next chapter is hybrid by design: offices for collaboration, home for focus, and policies that trust people to do their best work.",
+            "de": "Remote-Arbeit veränderte, wo wir leben, wie Teams kommunizieren und was Produktivität wirklich bedeutet. Flexibilität wurde zur Basiserwartung, nicht mehr zum Bonus.\n\nErfolgreiche verteilte Teams investieren in klares Schreiben, asynchrone Updates und bewusste Momente der Verbindung. Sie messen Ergebnisse, nicht Schreibtischstunden.\n\nDas nächste Kapitel ist Hybrid by Design: Büros für Zusammenarbeit, Zuhause für Fokus und Richtlinien, die Menschen vertrauen."
+        },
+        "image": "https://picsum.photos/seed/article5/400/600",
+        "view_count": 978,
+        "created_at": "2025-07-05 14:05:00"
+    },
+    {
+        "id": 6,
+        "title": {
+            "en": "Learning a Language as an Adult",
+            "de": "Als Erwachsener eine Sprache lernen"
+        },
+        "text": {
+            "en": "Adult learners progress fastest when they connect language to daily life. Label objects at home, narrate your commute, and speak aloud even when nobody listens.\n\nGrammar matters, but courage matters more. Mistakes are data, not failure.\n\nFind one podcast, one conversation partner, and one book below your comfort level. Repeat tomorrow.",
+            "de": "Erwachsene Lernende machen am schnellsten Fortschritte, wenn sie Sprache mit dem Alltag verbinden. Dinge zu Hause beschriften, den Weg zur Arbeit kommentieren und laut sprechen, auch wenn niemand zuhört.\n\nGrammatik ist wichtig, aber Mut ist wichtiger. Fehler sind Daten, kein Scheitern.\n\nFinde einen Podcast, einen Gesprächspartner und ein Buch unter deinem Komfortniveau. Wiederhole es morgen."
+        },
+        "image": "https://picsum.photos/seed/article6/400/600",
+        "view_count": 734,
+        "created_at": "2025-07-06 10:50:00"
+    },
+    {
+        "id": 7,
+        "title": {
+            "en": "Designing Calm Digital Spaces",
+            "de": "Ruhige digitale Räume gestalten"
+        },
+        "text": {
+            "en": "Notifications compete for attention like slot machines. Calm digital design protects focus by default instead of interrupting it.\n\nReduce visual noise, batch messages, and choose tools that respect deep work. Your home screen should feel like a workshop, not a carnival.\n\nTechnology should serve your priorities. When it does not, change the defaults.",
+            "de": "Benachrichtigungen konkurrieren um Aufmerksamkeit wie Spielautomaten. Ruhiges digitales Design schützt Fokus standardmäßig, statt ihn zu unterbrechen.\n\nReduziere visuelles Rauschen, bündele Nachrichten und wähle Werkzeuge, die Deep Work respektieren. Dein Startbildschirm sollte wie eine Werkstatt wirken, nicht wie ein Jahrmarkt.\n\nTechnologie sollte deinen Prioritäten dienen. Wenn nicht, ändere die Standardeinstellungen."
+        },
+        "image": "https://picsum.photos/seed/article7/400/600",
+        "view_count": 521,
+        "created_at": "2025-07-07 16:35:00"
+    },
+    {
+        "id": 8,
+        "title": {
+            "en": "Weekend Projects That Teach Skills",
+            "de": "Wochenendprojekte, die Fähigkeiten lehren"
+        },
+        "text": {
+            "en": "A weekend project should finish with something you can show: a shelf, a small app, a zine, a repaired bike. Tangible outcomes build momentum.\n\nPick one skill, one constraint, and one deadline. Constraints force creativity and prevent endless planning.\n\nDocument the process. Future you will remember the lesson more than the result.",
+            "de": "Ein Wochenendprojekt sollte mit etwas Sichtbarem enden: einem Regal, einer kleinen App, einem Zine, einem reparierten Fahrrad. Greifbare Ergebnisse erzeugen Schwung.\n\nWähle eine Fähigkeit, eine Einschränkung und eine Deadline. Einschränkungen erzwingen Kreativität und verhindern endloses Planen.\n\nDokumentiere den Prozess. Dein zukünftiges Ich erinnert sich eher an die Lektion als an das Ergebnis."
+        },
+        "image": "https://picsum.photos/seed/article8/400/600",
+        "view_count": 389,
+        "created_at": "2025-07-08 09:00:00"
+    },
+    {
+        "id": 9,
+        "title": {
+            "en": "How to Read More Books",
+            "de": "Wie man mehr Bücher liest"
+        },
+        "text": {
+            "en": "Reading more is less about speed and more about protecting time. Ten pages before sleep beats zero pages after a perfect plan.\n\nKeep one book in every room, abandon books that bore you, and reread favorites when motivation dips.\n\nLibraries and secondhand shops make reading affordable. Curiosity makes it sustainable.",
+            "de": "Mehr lesen geht weniger um Tempo als um geschützte Zeit. Zehn Seiten vor dem Schlafen schlagen null Seiten nach einem perfekten Plan.\n\nHalte ein Buch in jedem Raum bereit, lege langweilige Bücher beiseite und lies Lieblingswerke erneut, wenn die Motivation sinkt.\n\nBibliotheken und Secondhand-Läden machen Lesen erschwinglich. Neugier macht es nachhaltig."
+        },
+        "image": "https://picsum.photos/seed/article9/400/600",
+        "view_count": 1102,
+        "created_at": "2025-07-09 20:10:00"
+    },
+    {
+        "id": 10,
+        "title": {
+            "en": "Minimalism Without the Aesthetic",
+            "de": "Minimalismus ohne die Ästhetik"
+        },
+        "text": {
+            "en": "Minimalism is not white walls and empty shelves. It is removing what distracts you from what matters.\n\nAsk whether an object earns its place by utility, joy, or memory. If none apply, let it go without guilt.\n\nThe goal is mental space, not Instagram approval.",
+            "de": "Minimalismus sind nicht weiße Wände und leere Regale. Es bedeutet, das zu entfernen, was dich von dem ablenkt, was zählt.\n\nFrage, ob ein Gegenstand seinen Platz durch Nutzen, Freude oder Erinnerung verdient. Wenn nichts zutrifft, lass ihn ohne Schuld los.\n\nDas Ziel ist mentaler Raum, nicht Instagram-Zustimmung."
+        },
+        "image": "https://picsum.photos/seed/article10/400/600",
+        "view_count": 667,
+        "created_at": "2025-07-10 07:25:00"
+    },
+    {
+        "id": 11,
+        "title": {
+            "en": "Understanding Coffee Regions",
+            "de": "Kaffeeregionen verstehen"
+        },
+        "text": {
+            "en": "Coffee flavor begins with altitude, soil, and processing method long before it reaches your grinder. Ethiopian beans often taste floral; Brazilian profiles can feel nutty and chocolatey.\n\nTry one region at a time and note what you taste at different roast levels.\n\nBetter coffee knowledge turns your morning cup into a small geography lesson.",
+            "de": "Kaffeegeschmack beginnt mit Höhe, Boden und Verarbeitung lange bevor er die Mühle erreicht. Äthiopische Bohnen schmecken oft blumig; brasilianische Profile können nussig und schokoladig wirken.\n\nProbiere eine Region nach der anderen und notiere, was du bei verschiedenen Röstgraden schmeckst.\n\nBesseres Kaffeewissen macht aus der Morgentasse eine kleine Geografie-Lektion."
+        },
+        "image": "https://picsum.photos/seed/article11/400/600",
+        "view_count": 903,
+        "created_at": "2025-07-11 13:40:00"
+    },
+    {
+        "id": 12,
+        "title": {
+            "en": "Photography With Any Camera",
+            "de": "Fotografie mit jeder Kamera"
+        },
+        "text": {
+            "en": "Composition beats equipment. Look for leading lines, contrast, and a clear subject before you worry about megapixels.\n\nShoot in good light, move your feet, and take fewer but more intentional frames.\n\nThe best camera is the one you carry when the moment appears.",
+            "de": "Komposition schlägt Ausrüstung. Suche nach Führungslinien, Kontrast und einem klaren Motiv, bevor du über Megapixel nachdenkst.\n\nFotografiere bei gutem Licht, bewege dich und mache weniger, aber bewusstere Aufnahmen.\n\nDie beste Kamera ist die, die du trägst, wenn der Moment kommt."
+        },
+        "image": "https://picsum.photos/seed/article12/400/600",
+        "view_count": 776,
+        "created_at": "2025-07-12 15:55:00"
+    },
+    {
+        "id": 13,
+        "title": {
+            "en": "Sleep Routines That Actually Work",
+            "de": "Schlafroutinen, die wirklich funktionieren"
+        },
+        "text": {
+            "en": "Sleep improves when your day has a predictable ending. Dim lights, lower screens, and keep a consistent wake time even on weekends.\n\nCool, dark rooms and a short wind-down ritual signal your body that rest is safe.\n\nTreat sleep as performance infrastructure, not lost time.",
+            "de": "Schlaf verbessert sich, wenn dein Tag ein vorhersehbares Ende hat. Licht dimmen, Bildschirme reduzieren und eine konstante Aufstehzeit auch am Wochenende.\n\nKühle, dunkle Räume und ein kurzes Abendritual signalisieren dem Körper, dass Ruhe sicher ist.\n\nBehandle Schlaf als Leistungsinfrastruktur, nicht als verlorene Zeit."
+        },
+        "image": "https://picsum.photos/seed/article13/400/600",
+        "view_count": 1044,
+        "created_at": "2025-07-13 22:05:00"
+    },
+    {
+        "id": 14,
+        "title": {
+            "en": "Public Transit as Urban Freedom",
+            "de": "Öffentlicher Verkehr als urbane Freiheit"
+        },
+        "text": {
+            "en": "Reliable transit frees people from parking stress, fuel costs, and the mental load of driving in dense cities.\n\nWhen buses and trains run often, neighborhoods connect and local businesses thrive along the routes.\n\nInvesting in transit is investing in equal access to opportunity.",
+            "de": "Zuverlässiger Nahverkehr befreit von Parkstress, Spritkosten und der mentalen Last des Fahrens in dichten Städten.\n\nWenn Busse und Bahnen häufig fahren, verbinden sich Viertel und lokale Geschäfte entlang der Linien.\n\nInvestitionen in den ÖPNV sind Investitionen in gleichen Zugang zu Chancen."
+        },
+        "image": "https://picsum.photos/seed/article14/400/600",
+        "view_count": 588,
+        "created_at": "2025-07-14 12:15:00"
+    },
+    {
+        "id": 15,
+        "title": {
+            "en": "Writing Better Emails",
+            "de": "Bessere E-Mails schreiben"
+        },
+        "text": {
+            "en": "Clear emails respect the reader's time. Put the request in the first lines, use short paragraphs, and one subject per message.\n\nIf action is needed, state the deadline and the next step explicitly.\n\nProfessional kindness is concise, specific, and easy to reply to.",
+            "de": "Klare E-Mails respektieren die Zeit des Lesers. Setze die Bitte in die ersten Zeilen, nutze kurze Absätze und ein Thema pro Nachricht.\n\nWenn Handeln nötig ist, nenne Deadline und nächsten Schritt ausdrücklich.\n\nProfessionelle Freundlichkeit ist präzise, konkret und leicht zu beantworten."
+        },
+        "image": "https://picsum.photos/seed/article15/400/600",
+        "view_count": 412,
+        "created_at": "2025-07-15 17:30:00"
+    },
+    {
+        "id": 16,
+        "title": {
+            "en": "Rainy Day Creativity",
+            "de": "Kreativität an regnerischen Tagen"
+        },
+        "text": {
+            "en": "Rain slows the city and opens space for indoor creativity. Sketch, bake, reorganize a drawer, or draft an idea you postponed for weeks.\n\nBad weather is not lost time. It is permission to stay curious indoors.\n\nKeep a list of small creative tasks for days when the sky says stay home.",
+            "de": "Regen bremst die Stadt und schafft Raum für Kreativität drinnen. Skizzieren, backen, eine Schublade sortieren oder eine Idee ausarbeiten, die wochenlang warten musste.\n\nSchlechtes Wetter ist keine verlorene Zeit. Es ist Erlaubnis, drinnen neugierig zu bleiben.\n\nFühre eine Liste kleiner kreativer Aufgaben für Tage, an denen der Himmel sagt: Bleib zu Hause."
+        },
+        "image": "https://picsum.photos/seed/article16/400/600",
+        "view_count": 295,
+        "created_at": "2025-07-16 19:45:00"
+    },
+    {
+        "id": 17,
+        "title": {
+            "en": "The Joy of Walking Meetings",
+            "de": "Die Freude an Walking Meetings"
+        },
+        "text": {
+            "en": "Walking meetings break the stiffness of conference rooms and often produce clearer thinking. Movement loosens conversation and reduces performative posturing.\n\nKeep the group small, choose a quiet route, and summarize decisions when you sit back down.\n\nSometimes the best agenda is fresh air.",
+            "de": "Walking Meetings durchbrechen die Steifheit von Besprechungsräumen und führen oft zu klarerem Denken. Bewegung lockert Gespräche und reduziert inszeniertes Auftreten.\n\nHalte die Gruppe klein, wähle eine ruhige Route und fasse Entscheidungen zusammen, wenn ihr wieder sitzt.\n\nManchmal ist die beste Agenda frische Luft."
+        },
+        "image": "https://picsum.photos/seed/article17/400/600",
+        "view_count": 831,
+        "created_at": "2025-07-17 08:00:00"
+    },
+    {
+        "id": 18,
+        "title": {
+            "en": "Fixing a Bicycle at Home",
+            "de": "Ein Fahrrad zu Hause reparieren"
+        },
+        "text": {
+            "en": "Most common bike problems need only basic tools: pump, tire levers, hex keys, and chain lube. Flat tires and loose bolts cause more downtime than complex mechanical failures.\n\nLearn to clean the drivetrain and check brake pads before every season.\n\nMaintaining your bike saves money and keeps you rolling when inspiration strikes.",
+            "de": "Die häufigsten Fahrradprobleme brauchen nur Grundwerkzeug: Pumpe, Reifenheber, Innensechskantschlüssel und Kettenöl. Plattfüße und lose Schrauben verursachen mehr Ausfallzeit als komplexe Defekte.\n\nLerne, die Antriebskette zu reinigen und Bremsbeläge vor jeder Saison zu prüfen.\n\nWer sein Rad pflegt, spart Geld und bleibt unterwegs, wenn die Inspiration kommt."
+        },
+        "image": "https://picsum.photos/seed/article18/400/600",
+        "view_count": 564,
+        "created_at": "2025-07-17 11:20:00"
+    }
+]

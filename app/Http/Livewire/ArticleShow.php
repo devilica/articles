@@ -2,8 +2,8 @@
 
 namespace App\Http\Livewire;
 
+use App\Repositories\ArticleRepository;
 use Livewire\Component;
-use App\Models\Article;
 use Illuminate\Support\Facades\Cache;
 
 class ArticleShow extends Component
@@ -15,15 +15,22 @@ class ArticleShow extends Component
     {
         $this->articleId = $id;
         $locale = app()->getLocale();
+        $repository = app(ArticleRepository::class);
 
-        $this->article = Cache::remember('article_'.$id.'_'.$locale, 600, function () use ($id, $locale) {
-            $article = Article::findOrFail($id);
+        $this->article = Cache::remember('article_'.$id.'_'.$locale, 600, function () use ($id, $locale, $repository) {
+            $article = $repository->find((int) $id);
+
+            if ($article === null) {
+                abort(404);
+            }
+
+            $localized = $repository->forLocale($article, $locale);
 
             return [
-                'title' => json_decode($article->title, true)[$locale] ?? '',
-                'text' => json_decode($article->text, true)[$locale] ?? '',
-                'image' => $article->image ?? null,
-                'view_count' => $article->view_count,
+                'title' => $localized['title'],
+                'text' => $localized['text'],
+                'image' => $localized['image'],
+                'view_count' => $localized['view_count'],
             ];
         });
     }
